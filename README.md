@@ -26,3 +26,5 @@ php artisan migrate:fresh
 5. 代码
 admin模块:示例：`/app/Admin/`目录，
 配置：`/config/labuilder.php`。
+
+labuilder ui 生成器文档：https://github.com/ichynul/labuilder/tree/main/docs/labuilder-UI%E7%94%9F%E6%88%90
